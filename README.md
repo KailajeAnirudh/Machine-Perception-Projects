@@ -16,5 +16,5 @@ You can check out the following projects in thsi repository.
 
 ## Neural Radiance Field
 
-![NerF](05_NeuralRadianceField\Input.gif)
+![NerF](./05_NeuralRadianceField/Input.gif)
 
