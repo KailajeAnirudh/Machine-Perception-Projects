@@ -1,0 +1,9 @@
+gradescope-utils==0.2.7
+subprocess32
+numpy
+tqdm
+imageio
+pyrender
+matplotlib
+trimesh
+pyglet==1.5.0
