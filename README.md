@@ -4,7 +4,7 @@ You can check out the following projects in this repository.
 
 ## Virtual Billboard
 
-![Billboard](./01_VirtualBillboard\result.gif)
+![Billboard](./01_VirtualBillboard/result.gif)
 
 ## Virtual Reality Rendering
 
