@@ -11,7 +11,7 @@ python main.py
 We also provided some helper flags. Please check `main.py` for details. You can generate your visualizations with either PnP or P3P algorithm, both of which have been implemented. 
 
 ## Results
-![Virtual Reality](code\Result.gif)
+![Virtual Reality](02_VirtualReality/code/Result.gif)
 ## Debugging
 
 It's recommended to run the program with `--debug` to understand the program. 
