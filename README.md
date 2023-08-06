@@ -8,7 +8,7 @@ You can check out the following projects in this repository.
 
 ## Virtual Reality Rendering
 
-![VR](./02_VirtualReality\code\Result.gif)
+![VR](./02_VirtualReality/code/Result.gif)
 
 ## Stereo Vision 
 
