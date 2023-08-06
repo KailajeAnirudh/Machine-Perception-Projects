@@ -12,7 +12,7 @@ You can check out the following projects in this repository.
 
 ## Stereo Vision 
 
-![TVS](./04_TwoViewStereo\images.gif)
+![TVS](./04_TwoViewStereo/Code/Multiview.gif)
 
 ## Neural Radiance Field
 
